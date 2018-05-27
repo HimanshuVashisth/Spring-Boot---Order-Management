@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1373" started-at="2018-02-18T18:45:14Z" finished-at="2018-02-18T18:45:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1373" started-at="2018-02-18T18:45:14Z" finished-at="2018-02-18T18:45:15Z">
+      <class name="com.customerradar.test.CustomerServiceAppApplicationTests">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.customerradar.test.CustomerServiceAppApplicationTests@481a15ff]" name="init" is-config="true" duration-ms="18" started-at="2018-02-19T07:45:14Z" finished-at="2018-02-19T07:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="createCustomer()[pri:0, instance:com.customerradar.test.CustomerServiceAppApplicationTests@481a15ff]" name="createCustomer" is-config="true" duration-ms="936" started-at="2018-02-19T07:45:14Z" finished-at="2018-02-19T07:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="deleteCustomerByIdTest()[pri:0, instance:com.customerradar.test.CustomerServiceAppApplicationTests@481a15ff]" name="deleteCustomerByIdTest" duration-ms="64" started-at="2018-02-19T07:45:15Z" finished-at="2018-02-19T07:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomerByIdTest -->
+        <test-method status="PASS" signature="deleteCustomerByNameTest()[pri:0, instance:com.customerradar.test.CustomerServiceAppApplicationTests@481a15ff]" name="deleteCustomerByNameTest" duration-ms="23" started-at="2018-02-19T07:45:15Z" finished-at="2018-02-19T07:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCustomerByNameTest -->
+        <test-method status="PASS" signature="getAllCustomers()[pri:0, instance:com.customerradar.test.CustomerServiceAppApplicationTests@481a15ff]" name="getAllCustomers" duration-ms="146" started-at="2018-02-19T07:45:15Z" finished-at="2018-02-19T07:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCustomers -->
+        <test-method status="PASS" signature="getCustomerByNameTest()[pri:0, instance:com.customerradar.test.CustomerServiceAppApplicationTests@481a15ff]" name="getCustomerByNameTest" duration-ms="62" started-at="2018-02-19T07:45:15Z" finished-at="2018-02-19T07:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCustomerByNameTest -->
+        <test-method status="PASS" signature="getCustomerByTelephoneTest()[pri:0, instance:com.customerradar.test.CustomerServiceAppApplicationTests@481a15ff]" name="getCustomerByTelephoneTest" duration-ms="38" started-at="2018-02-19T07:45:15Z" finished-at="2018-02-19T07:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCustomerByTelephoneTest -->
+        <test-method status="PASS" signature="updateCustomer()[pri:0, instance:com.customerradar.test.CustomerServiceAppApplicationTests@481a15ff]" name="updateCustomer" duration-ms="68" started-at="2018-02-19T07:45:15Z" finished-at="2018-02-19T07:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCustomer -->
+      </class> <!-- com.customerradar.test.CustomerServiceAppApplicationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

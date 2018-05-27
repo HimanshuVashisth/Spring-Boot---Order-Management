@@ -1,0 +1,7 @@
+# Zuul Proxy configuration for all service clients
+zuul:
+  prefix: /api
+  routes:
+    customer-Service:
+      path: /customer-Service/**
+      url: http://localhost:8301   
